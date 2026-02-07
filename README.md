@@ -87,7 +87,7 @@ I built this application in three main steps:
 ## Deployment Details
 *   **Backend URL:** [Link to Render App]
 *   **Frontend URL:** [Link to Netlify Site]
-*   **GitHub Repository:** [Link to GitHub Repo]
+*   **GitHub Repository:** https://github.com/Karthik0484/Intern_task_py
 
 ## What I Learned
 *   How to structure a full-stack application with separate backend and frontend directories.
