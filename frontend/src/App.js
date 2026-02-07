@@ -5,7 +5,7 @@ function App() {
   const [facts, setFacts] = useState([]);
 
   useEffect(() => {
-    fetch('http://127.0.0.1:8000/api/facts/')
+    fetch('https://intern-task-py.onrender.com/api/facts/')
       .then(response => response.json())
       .then(data => setFacts(data))
       .catch(error => console.error('Error fetching data:', error));
