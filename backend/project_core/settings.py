@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cf1-2b*fhmqkmzke43dz%n@con^l=10)rqm3^8bt!hr8^fwm1a
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://intern-task-py.onrender.com'
+    'intern-task-py.onrender.com',
 ]
 
 
