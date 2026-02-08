@@ -85,8 +85,8 @@ I built this application in three main steps:
     The app will open at: `http://localhost:3000/`
 
 ## Deployment Details
-*   **Backend URL:** [Link to Render App]
-*   **Frontend URL:** [Link to Netlify Site]
+*   **Backend URL:** https://intern-task-py.onrender.com/api/facts
+*   **Frontend URL:** https://intern-task-py-ecy3.vercel.app/
 *   **GitHub Repository:** https://github.com/Karthik0484/Intern_task_py
 
 ## What I Learned
